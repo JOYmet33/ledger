@@ -60,7 +60,7 @@ const Home = () => {
           <InputDiv>
             <Label>날짜</Label>
             <Input
-              type="text"
+              type="date"
               id="date"
               placeholder="yyyy-mm-dd"
               value={date}
